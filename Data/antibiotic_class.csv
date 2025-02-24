@@ -1,0 +1,85 @@
+Antibiotic Name,ID,Antibiotic Class
+amikacin,AMK,Aminoglycoside
+amoxicillin,AMX,Penicilin
+amoxicillin_clavulanic acid,AMC,B-lactam Combined Agents
+ampicillin,AMP,Penicilin
+ampicillin_sulbactam,SAM,B-lactam Combined Agents
+azithromycin,AZI,Macrolide
+aztreonam,AZM,B-lactam Combined Agents
+capreomycin,CAP,Aminoglycoside
+cefazolin,CFZ,Cephem
+cefepime,FEP,Cephem
+cefixime,CFM,Cephem
+cefoperazone,CPZ,Cephem
+cefotaxime,CTX,Cephem
+cefoxitin,FOX,Cephem
+cefpirome,CPO,Cephem
+cefpodoxime,CPD,Cephem
+ceftaroline,CPT,Cephem
+ceftazidime,CAZ,Cephem
+ceftiofur,XNL,Cephem
+ceftriaxone,CRO,Cephem
+cefuroxime,CXM,Cephem
+cephalothin,CET,Cephem
+chloramphenicol,CHL,Phenicol
+ciprofloxacin,CIP,Fluoroquinolone
+clarithromycin,CLM,Macrolide
+clindamycin,CLI,Lincosamide
+colistin,COL,Lipopeptide
+cycloserine,CYS,Isoxazolines
+daptomycin,DAP,Lipopeptide
+doripenem,DOR,Carbapenem
+doxycycline,DOX,Tetracycline
+ertapenem,ETP,Carbapenem
+erythromycin,ERY,Macrolide
+ethambutol,,Organonitrogen compounds
+ethionamide,,Pyridines and derivatives
+fosfomycin,FOS,Fosfomycin
+furazolidone,FZ,Oxazolidinone
+fusidic acid,FUS,Steroidal
+gentamicin,GEN,Aminoglycoside
+imipenem,IPM,Carbapenem
+isoniazid,,Pyridines and derivatives
+kanamycin,KAN,Aminoglycoside
+levofloxacin,LVX,Fluoroquinolone
+linezolid,LZD,Oxazolidinone
+meropenem,MEM,Carbapenem
+methicillin,MET,Penicilin
+metronidazole,MEZ,Nitroimidazole
+minocycline,MIN,Tetracycline
+moxifloxacin,MXF,Fluoroquinolone
+mupirocin,MUP,Pseudonomic Acid
+nalidixic acid,NAL,Fluoroquinolone
+netilmicin,NET,Aminoglycoside
+nicotinamide,,Pyridines and derivatives
+nitrofurantoin,NIT,Nitrofurans
+norfloxacin,NOR,Fluoroquinolone
+ofloxacin,OFX,Fluoroquinolone
+oxacillin,OXA,Penicilin
+para-aminosalycilic_acid,,Aminosalicylates
+pefloxacin,PEF,Fluoroquinolone
+penicillin,PEN,Penicilin
+piperacillin,PIP,Penicilin
+piperacillin_tazobactam,TZP,B-lactam Combined Agents
+polymyxin B,PB,Lipopeptide
+pristinamycin,PRI,Streptogramin
+prothionamide,,Pyridines and derivatives
+pyrazinamide,,Diazines
+quinupristin_dalfopristin,QDA,Streptogramin
+rifampicin,RIF,Rifamycin
+spectinomycin,STS,Aminoglycoside
+spiramycin,SPI,Macrolide
+streptomycin,STR,Aminoglycoside
+sulfamethoxazole,SMZ,Folate
+sulfisoxazole,SUL,Folate
+sulfonamides,SF,Folate
+teicoplanin,TEC,Lipoglycopeptide
+temocillin,TEM,Penicilin
+tetracycline,TET,Tetracycline
+ticarcillin,TIC,Penicilin
+ticarcillin_clavulanic acid,TCC,B-lactam Combined Agents
+tigecycline,TGC,Tetracycline
+tobramycin,TOB,Aminoglycoside
+trimethoprim,TMP,Folate
+trimethoprim_sulfamethoxazole,SXT,Folate
+vancomycin,VAN,Glycopeptide
