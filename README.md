@@ -56,7 +56,7 @@ This takes 1-2 min to build
 
 # Instructions for use
 
-After installing the project, run each available code using _python code_name.py_. For the codes get_weights.py , weighted_chi_square_AMR.py , ML_AMR_pipeline.py , ML_AMR_pipeline_Population_correction.py , get_antibiotic_class_RSI.py , get_feature_rate.py and get_feature_rate_Population_correction.py include after the code name the name of the specie between quotation marks. The other codes will automatically import the corresponding data from the **Data** folder and will produce the following output:
+After installing the project, run each available code using _python code_name.py_. In addition, for the codes get_weights.py , weighted_chi_square_AMR.py , ML_AMR_pipeline.py , ML_AMR_pipeline_Population_correction.py , get_antibiotic_class_RSI.py , get_feature_rate.py and get_feature_rate_Population_correction.py include after the code name the name of the specie between quotation marks. All codes will automatically import the corresponding data from the **Data** folder and will produce the following output:
 
 * get_weights.py:
 * weighted_chi_square_AMR.py:
