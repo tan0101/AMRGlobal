@@ -1,6 +1,6 @@
 # AMR Global
 
-"Title" by Alexandre Maciel-Guerra, Michelle Baker­, Ruoqi Wang­, Luo Chengchang, Yan Xu, Enzo Guerrero-Araya, Weihua Meng, Ge Wu, Komkiew Pinpimai, Tania Dottorini
+"Genomic traits and social determinants of health drive bacterial antimicrobial resistance: current trends and projections to 2050" by Alexandre Maciel-Guerra, Michelle Baker­, Ruoqi Wang­, Luo Chengchang, Yan Xu, Enzo Guerrero-Araya, Weihua Meng, Ge Wu, Komkiew Pinpimai, Nicola Senin, Tania Dottorini
  
 Any questions should be made to the corresponding author Dr Tania Dottorini (Tania.Dottorini@nottingham.ac.uk)
 
