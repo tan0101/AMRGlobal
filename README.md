@@ -72,7 +72,7 @@ After installing the project, unzip any zipped files due to their size and run e
 *   
 
 # Algorithm's Flow (ML_AMR_pipeline.py and ML_AMR_pipeline_Population_correction.py)
-![Alt Text](/images/pipeline_GitHub.drawio.png)
+![Alt Text](/images/pipeline_GitHub.png)
 
 # License
 
