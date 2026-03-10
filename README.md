@@ -2,7 +2,7 @@
 
 "Genomic traits and social determinants of health tied to bacterial antimicrobial resistance: current trends and projections to 2050" by Michelle Baker, Alexandre Maciel-Guerra, Ruoqi Wang, Luo Chengchang, Yan Xu, Enzo Guerrero-Araya, Weihua Meng, Ge Wu, Komkiew Pinpimai, Peter Anthony Oyom, Nicola Senin, Tania Dottorini
  
-Any questions should be made to the corresponding author Dr Tania Dottorini (Tania.Dottorini@nottingham.ac.uk)
+Any questions should be made to the corresponding author Dr Tania Dottorini (Tania.Dottorini@kcl.ac.uk)
 
 Ten scripts are available:
 
